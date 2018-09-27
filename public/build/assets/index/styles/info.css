@@ -1,0 +1,39 @@
+
+/* Change font to better match page */
+/*#mc_embed_signup {
+  font:21px "Josefin Slab";*/
+}
+
+/* Also make text visible */
+#mc_embed_signup #mce-success-response {
+  color:#ffffff;
+}
+
+.info {
+  width: 100%;
+  background-color: #191919; /* Changed so it's more readable, but feel free to change it back */
+  color: #fff;
+  display: flex;
+}
+.info h2
+{
+  color: #247dff;
+}
+
+.info-section {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  float: left;
+  padding: 20px 10px;
+}
+
+.meeting-time {
+  margin: 0;
+  text-align: center;
+  font-family: Josefin Slab;
+  font-size: 3em; 
+  font-weight: bold;
+}

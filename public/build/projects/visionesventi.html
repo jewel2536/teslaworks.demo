@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Visiones Venti - Tesla Works</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/general/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/general/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/general/favicons/favicon-16x16.png">
+    <link rel="manifest" href="assets/general/favicons/manifest.json">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:300|Raleway:400|Raleway:700" rel="stylesheet">
+    <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/general/styles/footer.css" rel="stylesheet">
+    <link href="assets/general/styles/main.css" rel="stylesheet">
+    <link href="assets/general/styles/navbar.css" rel="stylesheet">
+    <link href="assets/general/styles/bootstrap-theme.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="assets/general/picturefill.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="assets/general/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link href="assets/projects/styles/project.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="all">
+      <nav class="navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#top-navbar-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href=""><img alt="Tesla Works" src="assets/images/originals/logo_light.png"></a>
+          </div>
+          <div class="collapse navbar-collapse" id="top-navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="projects.html">Projects</a></li>
+              <li><a href="gettingstarted.html">Getting Started</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="resources.html">Resources</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="content">
+        <div class="cover">
+          <div class="cover-img"><img src="assets/images/originals/covers/default.png"></div>
+          <div class="cover-caption">
+            <h1>Visiones Venti</h1>
+          </div>
+        </div>
+        <div class="meeting-time">
+          <h2></h2>
+        </div>
+        <div class="project">
+          <article>
+            <div class="project-main">
+              <h2>Description</h2>
+              <section>Using Virtual Reality hardware, specifically with the Oculus Rift (3D vision goggles), simulating different environments.  These simulations would specifically be focused on free-falling or flying, but may include things from different altitudes, weather fronts (but not necessarily weather),  climates or possibly vehicles.  We plan to show and demonstrate different sub-components of the entire project experience of the simulation.  We plan to have hardware components for the audience (who are outside the simulation system) to look at, as well as having different variables and simulations for the participant (who is inside the simulator) to choose from and experiment with.  This would show people different environments, experiences, hardware and STEM applications and careers into which they could go.</section>
+            </div>
+            <div class="project-meeting">
+              <h2></h2>
+            </div>
+            <div class="project-focus">
+            </div>
+            <div class="project-manager">
+              <h2>Notice</h2>
+              <p>This project is currently on hiatus or has been archived. For more information about this project, talk to any officer or contact us at tesla@umn.edu</p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-bottom footer">
+        <div class="container"><span class="navbar-text pull-left">tesla@umn.edu</span><span class="navbar-text pull-right">Copyright &copy; 2018 Tesla Works</span></div>
+      </div>
+    </div>
+    <script>
+      $(document).ready(function() {
+        var $window = $(window);
+        $window.scroll(function() {
+          $('#menu-content').css('left', -$(this).scrollLeft() + 'px');
+        });
+      });
+      
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-105336250-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

@@ -1,0 +1,104 @@
+/* General */
+body p {
+  line-height: 2;
+}
+
+/* General content styling */
+.content
+{
+  display:block;
+}
+.main
+{
+  padding-top: 60px!important;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
+.main h1
+{
+  font-family: Josefin Slab, serif;
+  /*font-size: 2.5em;*/
+  border-bottom: 2px solid #e4e4e4;
+}
+.main h2
+{
+  font-family: Raleway, sans-serif;
+}
+.main b
+{
+  color: #247dff; /* Blue from logo */
+  font-weight: 700;
+}
+
+.heading
+{
+  font-size: 2.5em;
+  line-height: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.diagleft svg
+{
+  height: 20vh;
+  width: 100%;
+  fill: #333;
+}
+
+.diagleft
+{
+  height: 20vh;
+}
+
+@media all and (min-width: 1024px)
+{
+  .main{padding-top:70px;} /* Adjusted padding for main div */
+}
+
+a
+{
+  -webkit-transition:all 0.3s;
+  -moz-transition:all 0.3s;
+  transition:all 0.3s;
+}
+
+a:hover
+{
+  -webkit-transition:all 0.3s;
+  -moz-transition:all 0.3s;
+  transition:all 0.3s;
+}
+
+
+.all {
+  /*min-width: 750px;*/
+  /* The next three lines are for setting up the sticky footer */
+  /*min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: scroll;*/
+}
+
+body ul.navbar {
+  min-width: 800px;
+}
+
+body ul.navbar,
+body .footer {
+  overflow-x: hidden;
+}
+
+@media only screen and (min-width: 1025px)
+{
+  .main { font-size: 18px; }
+}
+
+@media only screen and (max-width: 767px)
+{
+  .navbar-default .navbar-nav > li > a {
+    line-height: 12px;
+  }
+}

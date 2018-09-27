@@ -1,0 +1,549 @@
+{
+	"projects": {
+		"aero-elasticfluttergenerator": {
+			"fullName": "Aero-elastic Flutter Generator",
+			"shortName": "aero-elasticfluttergenerator",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Wind Power Generator",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"animatronicbarbershopquartet": {
+			"fullName": "Animatronic Barbershop Quartet",
+			"shortName": "animatronicbarbershopquartet",
+			"status": "archived",
+			"coverImage": "abq.png",
+			"description": "Singing Kaler Heads",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"astromechengineering": {
+			"fullName": "Astromech Engineering",
+			"shortName": "astromechengineering",
+			"status": "current",
+			"coverImage": "default.png",
+			"description": "Star Wars Droids",
+			"meetingTime": "Sundays 10:00am in Keller 2-160",
+			"manager": "Laura Ziegelski",
+			"contact": "ziege047@umn.edu"
+		},
+		"audioproject": {
+			"fullName": "Audio Project",
+			"shortName": "audioproject",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Light Show Sound",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"autonomouschessboard": {
+			"fullName": "Autonomous Chess Board",
+			"shortName": "autonomouschessboard",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Autonomous Chess Board",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"autonomousresearchcollective": {
+			"fullName": "Autonomous Research Collective",
+			"shortName": "autonomousresearchcollective",
+			"status": "current",
+			"coverImage": "arc.jpg",
+			"description": "Reviving RoboMagellan",
+			"meetingTime": "Sundays 12:00pm in Keller 2-160",
+			"manager": "Matt Beaudoin",
+			"contact": "beaud070@umn.edu"
+		},
+		"colette": {
+			"fullName": "Colette",
+			"shortName": "colette",
+			"status": "archived",
+			"coverImage": "colette.jpg",
+			"description": "Secure Biometric Purse",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"themechanicalcubeharmonic": {
+			"fullName": "The Mechanical Cube Harmonic",
+			"shortName": "themechanicalcubeharmonic",
+			"status": "current",
+			"coverImage": "themechanicalcubeharmonic.png",
+			"description": "Rubik's cube with music",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Yan Clark",
+			"contact": "yanclark@umn.edu"
+		},
+		"deltasquad": {
+			"fullName": "Delta Squad",
+			"shortName": "deltasquad",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Fast 3D Printing",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"demofusor": {
+			"fullName": "Demo Fusor",
+			"shortName": "demofusor",
+			"status": "archived",
+			"coverImage": "fusor.png",
+			"description": "The Fusor, but Smaller",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"dobsoniantelescope": {
+			"fullName": "Dobsonian Telescope",
+			"shortName": "dobsoniantelescope",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Dobsonian Telescope",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"fido": {
+			"fullName": "Fido",
+			"shortName": "fido",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Workshop Access",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"floatingarmtrebuchet": {
+			"fullName": "Floating Arm Trebuchet",
+			"shortName": "floatingarmtrebuchet",
+			"status": "archived",
+			"coverImage": "trebuchet.png",
+			"description": "Medieval Seige Machine",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"fusor": {
+			"fullName": "Fusor",
+			"shortName": "fusor",
+			"status": "archived",
+			"coverImage": "fusor.png",
+			"description": "Small-scale Nuclear Fusion",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"guildofroboticartisans": {
+			"fullName": "Guild of Robotic Artisans",
+			"shortName": "guildofroboticartisans",
+			"status": "current",
+			"coverImage": "guild.png",
+			"description": "Robots Making Art",
+			"meetingTime": "Sundays 1:00pm in Keller 2-164",
+			"manager": "Harsha Kethineni",
+			"contact": "kethi002@umn.edu"
+		},
+		"healthsync": {
+			"fullName": "HealthSync",
+			"shortName": "healthsync",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Health Monitoring Stations",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"hoverbike": {
+			"fullName": "Hoverbike",
+			"shortName": "hoverbike",
+			"status": "current",
+			"coverImage": "hoverbike.jpg",
+			"description": "Fan-powered hovering bicycle",
+			"meetingTime": "Thursdays at 7:00pm in Keller 2-164",
+			"manager": "Arman Shah",
+			"contact": "shahx252@umn.edu"
+		},
+		"hoverboard": {
+			"fullName": "Hoverboard",
+			"shortName": "hoverboard",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Levitation with superconductors",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"hovercraft": {
+			"fullName": "Hovercraft",
+			"shortName": "hovercraft",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "UH-10F hovercraft",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"kanetus": {
+			"fullName": "Kanetus",
+			"shortName": "kanetus",
+			"status": "current",
+			"coverImage": "kanetus.jpg"
+		},
+		"laserprojector": {
+			"fullName": "Laser Projector",
+			"shortName": "laserprojector",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "2D Laser Display",
+			"meetingTime": "TBD",
+			"contact": ""
+		},
+		"lightshow": {
+			"fullName": "Light Show",
+			"shortName": "lightshow",
+			"status": "current",
+			"coverImage": "lightshow.jpg",
+			"description": "Winter Light Show",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Byron Ambright",
+			"contact": "ambri011@umn.edu"
+		},
+		"lithiumairbattery": {
+			"fullName": "Lithium Air Battery",
+			"shortName": "lithiumairbattery",
+			"status": "current",
+			"coverImage": "default.png",
+			"description": "Efficient Batteries",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Ethan Tuch",
+			"contact": "tuchx002@umn.edu"
+		},
+		"lprdrocketry": {
+			"fullName": "LPRD Rocketry",
+			"shortName": "lprdrocketry",
+			"status": "current",
+			"coverImage": "lprd.png",
+			"description": "Liquid Propelled Rocket Design",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Glen Smith",
+			"contact": "smit8297@umn.edu"
+		},
+		"mobilegopher": {
+			"fullName": "Mobile Gopher",
+			"shortName": "mobilegopher",
+			"status": "archived",
+			"coverImage": "mobilegopher.jpg",
+			"description": "Building our own cell phone",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"mobineo": {
+			"fullName": "Mobineo",
+			"shortName": "mobineo",
+			"status": "current",
+			"coverImage": "mobineo.jpg",
+			"description": "Kenyan Land Surveying",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Kate Kuehl",
+			"contact": "katekuehl@gmail.com"
+		},
+		"multirotor": {
+			"fullName": "MultiRotor",
+			"shortName": "multirotor",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Quadcopter",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"munchi": {
+			"fullName": "Munchi",
+			"shortName": "munchi",
+			"status": "current",
+			"coverImage": "munchi.jpg",
+			"description": "Cooking wiith a Coffee Maker",
+			"meetingTime": "See Below",
+			"manager": "Nick Knudsen",
+			"contact": "knuds208@umn.edu"
+		},
+		"neurohackinginstitute": {
+			"fullName": "Neurohacking Institute",
+			"shortName": "neurohackinginstitute",
+			"status": "current",
+			"coverImage": "neurohackinginstitute.jpg",
+			"description": "Mind control of things",
+			"meetingTime": "See Below",
+			"manager": "Kayla Engelstad",
+			"contact": "engel813@umn.edu"
+		},
+		"pathfinder": {
+			"fullName": "Pathfinder",
+			"shortName": "pathfinder",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Leading the Way",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"pegasusspaceprogram": {
+			"fullName": "Pegasus Space Program",
+			"shortName": "pegasusspaceprogram",
+			"status": "current",
+			"coverImage": "pegasusspaceprogram.jpg",
+			"description": "CubeSats to the Moon",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Vincent Twin",
+			"contact": "vincent.twin123@gmail.com"
+		},
+		"peristalticpump": {
+			"fullName": "Peristaltic Pump",
+			"shortName": "peristalticpump",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Peristalsis In Action",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"piezoelectricproject": {
+			"fullName": "Piezoelectric Project",
+			"shortName": "piezoelectricproject",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "The Pressure's On",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"pneumaticpayloadpropeller": {
+			"fullName": "Pneumatic Payload Propeller",
+			"shortName": "pneumaticpayloadpropeller",
+			"status": "current",
+			"coverImage": "default.png",
+			"description": "T-Shirt Cannon",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Matthew Nemeth",
+			"contact": "nemet053@umn.edu"
+		},
+		"projectcumulus": {
+			"fullName": "Project Cumulus",
+			"shortName": "projectcumulus",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Interactive Environment",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"proximalsensingpushcart": {
+			"fullName": "Proximal Sensing Push Cart",
+			"shortName": "proximalsensingpushcart",
+			"status": "current",
+			"coverImage": "default.png",
+			"description": "Push Cart to analyze soybeans",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Austin Dobbels",
+			"contact": "dobbe045@umn.edu"
+		},
+		"pyroboard": {
+			"fullName": "Pyroboard",
+			"shortName": "pyroboard",
+			"status": "current",
+			"coverImage": "pyroboard.jpg",
+			"description": "Making Fire Dance to Music",
+			"meetingTime": "Thursdays 7:15pm in Keller 2-160",
+			"manager": "Elizabeth Keznoff",
+			"contact": "kezno001@umn.edu"
+		},
+		"railgun": {
+			"fullName": "Railgun",
+			"shortName": "railgun",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "A Railgun",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"reenignerobotics": {
+			"fullName": "ReenignERobotics",
+			"shortName": "reenignerobotics",
+			"status": "current",
+			"coverImage": "reenignerobotics.jpg",
+			"description": "Reverse Engineering",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Sina Roughani",
+			"contact": "rough009@umn.edu"
+		},
+		"regenerativespringbike": {
+			"fullName": "Regenerative Spring Bike",
+			"shortName": "regenerativespringbike",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Bike with Cool Brakes",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"reprap3dprinter": {
+			"fullName": "RepRap 3D Printer",
+			"shortName": "reprap3dprinter",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Building Printers",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"robomural": {
+			"fullName": "Robomural",
+			"shortName": "robomural",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Self-updating Robotic Mural",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"rubegoldberg": {
+			"fullName": "Rube Goldberg",
+			"shortName": "rubegoldberg",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Crazy Contraptions",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"seedharvester": {
+			"fullName": "Seed Harvester",
+			"shortName": "seedharvester",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Hemp Seed Harvester",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"shedbed": {
+			"fullName": "Shed Bed",
+			"shortName": "shedbed",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "No More Pet Hair",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"snowcastle": {
+			"fullName": "Snow Castle",
+			"shortName": "snowcastle",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "The Fortress of NTP^2",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"steamworks": {
+			"fullName": "Steam Works",
+			"shortName": "steamworks",
+			"status": "current",
+			"coverImage": "steamworks.jpg",
+			"description": "Model Steam Engines",
+			"meetingTime": "Sundays 3:00pm in Keller 2-160",
+			"manager": "John Proper",
+			"contact": "prope009@umn.edu"
+		},
+		"gmiddisplay": {
+			"fullName": "Gopher Motorsports Information and Diagnostics Display (GMID Display)",
+			"shortName": "gmiddisplay",
+			"status": "current",
+			"coverImage": "default.png",
+			"description": "Real-time Racecar Diagnostics",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Rose Slater",
+			"contact": "slate185@umn.edu"
+		},
+		"strandbeest": {
+			"fullName": "Strandbeest",
+			"shortName": "strandbeest",
+			"status": "archived",
+			"coverImage": "strandbeest.png",
+			"description": "Giant Metal Walking Machine",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"teslacoil": {
+			"fullName": "Tesla Coil",
+			"shortName": "teslacoil",
+			"status": "archived",
+			"coverImage": "teslacoil2.png",
+			"description": "Musical Lightning",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"teslaturbinevehicle": {
+			"fullName": "Tesla Turbine Vehicle",
+			"shortName": "teslaturbinevehicle",
+			"status": "archived",
+			"coverImage": "teslaturbine.png",
+			"description": "An Efficient Vehicle",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		},
+		"teslaworkscrewshirts": {
+			"fullName": "Tesla Works Crew Shirts",
+			"shortName": "teslaworkscrewshirts",
+			"status": "current",
+			"coverImage": "default.png",
+			"description": "Light-up Work Vests",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Anna Koene",
+			"contact": "koene071@umn.edu"
+		},
+		"thedomeshow": {
+			"fullName": "The Dome Show",
+			"shortName": "thedomeshow",
+			"status": "current",
+			"coverImage": "domeshow.jpg",
+			"description": "A light-up geodesic dome",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Ian Smith",
+			"contact": "smit7356@umn.edu"
+		},
+		"advancedaerostatproject": {
+			"fullName": "Advanced Aerostat Project",
+			"shortName": "AAP",
+			"status": "current",
+			"coverImage": "advancedaerostatproject.jpg",
+			"description": "High Altitude Weather Balloon",
+			"meetingTime": "Contact Project Manager",
+			"manager": "Calvin Westrick",
+			"contact": "westr129@umn.edu"
+		},
+		"ultralight": {
+			"fullName": "Ultralight",
+			"shortName": "ultralight",
+			"status": "archived",
+			"coverImage": "default.png",
+			"description": "Ultralight Aircraft",
+			"meetingTime": "TBD",
+			"manager": "",
+			"contact": ""
+		}
+	}
+}

@@ -1,0 +1,41 @@
+.main {
+  width: 100%;
+  padding-bottom: 0;
+}
+.main h1 {
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main p {
+  text-align: center;
+  font-family: Raleway;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+.main p a:link {
+  color: #215999;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.main p a:hover {
+  background: rgba(0,0,0,0.2)
+}
+
+.project-group h2 {
+  width: 100%;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 2.5em;
+}
+
+.project-group {
+  padding: 20px 0;
+}
+
+.project-group:nth-child(odd) {
+  background: #dddddd; 
+}

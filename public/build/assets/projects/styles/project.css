@@ -1,0 +1,84 @@
+
+.cover {
+  z-index:0;
+  position: relative;
+  padding-top: 50px;
+  width: 100%;
+  height: calc(100% - 60px);
+  overflow: hidden;
+}
+
+.cover-img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(#202149, #191919);
+}
+
+.cover-img img {
+  max-width: 100%;
+  max-height: calc(90vh - 60px);
+}
+
+.cover-caption {
+  font-family: Josefin Slab;
+  font-size: 2em;
+  text-shadow: 1px 1px 2px #000000;
+  color: #eeeeee;
+  margin: 0;
+  padding: 3em 0 0 7%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.7));
+}
+
+.cover-caption h1 {
+  z-index: 20;
+  font-weight: 300;
+}
+
+.meeting-time {
+  height: 10vh;
+  background: #215999;
+  display: flex;
+  align-items: center;
+  font-size: 1em;
+  font-family: Josefin Slab;
+  color: #ffffff;
+}
+
+.meeting-time h2 {
+  font-weight: 300;
+  margin: 0 0 0 6px;
+  padding: 0 0 0 7%;
+}
+
+.project {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.project article {
+  font-size: 1em;
+  font-family: Raleway;
+  font-weight:400;
+  width: 36em;
+  padding: 20px 0;
+}
+
+.project article h1,
+.project article h2,
+.project article h3,
+.project article h4,
+.project article h5,
+.project article h6,
+.project article strong {
+  font-family: Josefin Slab;
+  font-weight: bold;
+  font-size: 2em;
+}

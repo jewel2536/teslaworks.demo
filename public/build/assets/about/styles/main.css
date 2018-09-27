@@ -1,0 +1,80 @@
+.about
+{
+  background-color: #333;
+  color: #bbb;
+  border-style: solid;
+  border-width: 0px 0px 10px 0px;
+  border-color: #247dff;
+  padding-bottom: 60px;
+}
+.about h2
+{
+  color: #fff;
+}
+.about b
+{
+  color: #fff;
+}
+.rightside
+{
+  padding-right: 0px!important;
+  padding-left: 0px!important;
+}
+.history
+{
+  /*
+  padding: 80px;
+  */
+}
+.tgif
+{
+  background-color: #333;
+  color: #bbb;
+  padding-bottom: 50px;
+}
+.tgif h2
+{
+  color: #fff;
+}
+.NTP2
+{
+  width: 100%;
+}
+.FNP
+{
+  width: 100%;
+}
+.imgindex
+{
+  width:100%;
+}
+/*
+
+/* Image styling
+.main img
+{
+	margin: 10px 20px;
+}
+
+.l
+{
+	float: left;
+}
+.r
+{
+	float: right;
+}
+.wrapper > *
+{
+	padding: 10px;
+}
+
+/* Responsive content
+@media all and (min-width: 1370px)
+{							/* Breakpoint set where the text starts stretching the page
+	.box {padding:50px;}
+	.img {padding:50px;}
+	.main {padding-top:70px; padding-bottom:70px;}
+}
+
+*/

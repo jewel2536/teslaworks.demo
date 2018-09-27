@@ -1,0 +1,149 @@
+/* bootstrap styling */
+.main
+{
+  padding-top: 60px!important;
+  padding-bottom: 70px;
+  width: 100%;
+}
+.fcarousel
+{
+  padding-right: 0px!important;
+  padding-left: 0px!important;
+}
+.h2
+{
+  font-weight:bold!important;
+}
+label
+{
+  font-size: 1.3em!important;
+  font-weight: normal!important;
+}
+/* Times/Mailling list */
+.large
+{
+  color: #247dff;
+  font-size: 4.0em!important;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+.timesmailinglist
+{
+  padding: 0px;
+  margin-top: 0px;
+}
+.time
+{
+  text-align:center;
+}
+.p2
+{
+  display: none;
+}
+.ideatecreatedesign
+{
+  width: 100%;
+}
+.about, .projects, .social
+{
+  padding: 70px 0px;
+}
+.about
+{
+  background-color: #fff;
+}
+.buildcoolstuff
+{
+  text-align: center;
+}
+/* Carousel */
+.carousrow
+{
+  background-color:#f5f5f5;
+}
+.carousel-control a:link, .carousel-control a:visited, .carousel-control a:active
+{
+  color: #fff!important;
+}
+.carousel-control a:hover
+{
+  color: #247dff!important;
+}
+.carousel-caption h2, .grid-caption h2
+{
+  font-size: 30px!important;
+  font-weight: 700!important;
+  color: #fff!important;
+  text-shadow: 0 2px 5px #000 !important;
+}
+.carousel-img
+{
+  width: 100%;
+  height: 100%;
+}
+.carousel-img img
+{
+  width: 100%;
+  min-width: 100%;
+  height: auto;
+  max-height: calc(100vh - 62px);
+  overflow: hidden;
+}
+.imgindex
+{
+  width:100%;
+}
+.show-all
+{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.projects
+{
+  background-color: #333;
+  color: #bbb;
+  padding-top: 0px;
+}
+.projects h2
+{
+  color: #fff;
+}
+.project
+{
+  text-align: center;
+}
+/*.project img:hover
+{
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}*/
+.social
+{
+  background-color: #f5f5f5;
+
+/*there's some sort of offset on the bottom of the page
+(margin-top maybe? that creates a white space. this is a quick fix...*/
+  margin-bottom: -70px;
+
+}
+
+@media only screen and (min-width: 1336px)
+{
+  .p2 { display: block; }
+}
+@media only screen and (min-width: 1025px)
+{
+  .main { font-size: 18px; }
+}
+@media only screen and (min-width: 768px)
+{
+  .project {margin-bottom: 20px;}
+  .project img {border: 10px solid #dce0df;}
+  .mailcontainer {width: 700px;}
+}
+@media only screen and (max-width: 750px)
+{
+  .p2 {display: block;}
+}
